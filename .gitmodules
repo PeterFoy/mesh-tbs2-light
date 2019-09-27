@@ -1,0 +1,6 @@
+[submodule "app/ucli"]
+	path = app/ucli
+	url = git@gitlab.com:arturmadrzak/ucli.git
+[submodule "app/net"]
+	path = app/net
+	url = ../net-mesh-lib
